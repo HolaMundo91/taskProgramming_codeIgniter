@@ -1,9 +1,8 @@
 # programacion_tareas
 # Framework: CodeIgniter.
-# Lenguajes: Php, javascript, jQuery y HTML5.
+# Lenguajes: Php.
 # Autor: Pablo Díaz García.
-# Video explicativo: 
-# Artículo: http://pablojdg.blogspot.com.es/
+# Artículo: http://pablojdg.blogspot.com.es/2015/08/tareas-programadas-en-cogeigniter.html
 # Proyecto: http://regaloconsolas.com/
 
 Creación de una función que asigne de forma automática puntos a todos aquellos usuarios que hayan comprado la mensualidad llamada ‘puntos_automaticos’. Esta mensualidad hace que cada cierto tiempo se le asignen puntos a los usuarios sin necesidad de tener que conseguirlos viendo anuncios. Además, se acumula con otras ofertas.
